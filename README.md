@@ -1,5 +1,5 @@
 # campuslink
-CampusLink is a dynamic platform designed to foster a vibrant community among campus students by connecting them with a diverse range of events and experiences. Our project aims to enhance the overall college experience by providing a centralized hub where students can discover, participate in, and create their own events.
+CampusLink is a dynamic platform designed with FASTAPI to foster a vibrant community among campus students by connecting them with a diverse range of events and experiences. Our project aims to enhance the overall college experience by providing a centralized hub where students can discover, participate in, and create their own events.
 
 With CampusLink, students can easily explore a variety of activities, including academic seminars, workshops, cultural events, sports competitions, and social gatherings. Our platform offers a comprehensive event directory, allowing users to filter events based on their interests, availability, and location. Whether it's a thought-provoking lecture, a thrilling sports match, or a creative arts showcase, CampusLink ensures that students never miss out on the exciting happenings within their campus community.
 
